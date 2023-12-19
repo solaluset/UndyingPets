@@ -1,0 +1,4 @@
+function undyingpets:protect
+function undyingpets:feed_wolves
+function undyingpets:resurrect
+function undyingpets:dismount

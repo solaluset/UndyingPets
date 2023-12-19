@@ -1,0 +1,11 @@
+scoreboard players set @s[nbt={Item:{id:"minecraft:chicken"}}] UP.food_value 2
+scoreboard players set @s[nbt={Item:{id:"minecraft:mutton"}}] UP.food_value 2
+scoreboard players set @s[nbt={Item:{id:"minecraft:porkchop"}}] UP.food_value 3
+scoreboard players set @s[nbt={Item:{id:"minecraft:beef"}}] UP.food_value 3
+scoreboard players set @s[nbt={Item:{id:"minecraft:rabbit"}}] UP.food_value 3
+scoreboard players set @s[nbt={Item:{id:"minecraft:rotten_flesh"}}] UP.food_value 4
+scoreboard players set @s[nbt={Item:{id:"minecraft:cooked_rabbit"}}] UP.food_value 5
+scoreboard players set @s[nbt={Item:{id:"minecraft:cooked_chicken"}}] UP.food_value 6
+scoreboard players set @s[nbt={Item:{id:"minecraft:cooked_mutton"}}] UP.food_value 6
+scoreboard players set @s[nbt={Item:{id:"minecraft:cooked_porkchop"}}] UP.food_value 8
+scoreboard players set @s[nbt={Item:{id:"minecraft:cooked_beef"}}] UP.food_value 8
